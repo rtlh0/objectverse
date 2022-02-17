@@ -1,0 +1,1 @@
+var input=document.getElementById("btnPassword");input.addEventListener("click",function(e){if(""==document.getElementById("password").value)alert("Please enter a password");else{"ReadTheManuscripts"==document.getElementById("password").value?window.location.href="./cli/index.html":alert("Incorrect password")}});
