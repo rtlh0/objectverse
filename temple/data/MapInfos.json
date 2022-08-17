@@ -1,4 +1,18 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":0,"scrollY":0}
+{"id":1,"expanded":false,"name":"Start","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":568.1999999999999},
+{"id":2,"expanded":true,"name":"Temple of Object","order":2,"parentId":0,"scrollX":982.8,"scrollY":743.4},
+{"id":3,"expanded":true,"name":"Chamber of Saint Rats","order":5,"parentId":2,"scrollX":884.7272727272727,"scrollY":516.5454545454546},
+{"id":4,"expanded":false,"name":"Chamber of Kimé","order":6,"parentId":2,"scrollX":536.1818181818182,"scrollY":363.8181818181818},
+{"id":5,"expanded":false,"name":"Chamber of The Dual Horsemen","order":7,"parentId":2,"scrollX":973.1999999999999,"scrollY":568.1999999999999},
+{"id":6,"expanded":false,"name":"Chamber of Scion","order":8,"parentId":2,"scrollX":884.7272727272727,"scrollY":516.5454545454546},
+{"id":7,"expanded":true,"name":"Throne Room","order":10,"parentId":2,"scrollX":973.1999999999999,"scrollY":784.1999999999999},
+{"id":8,"expanded":true,"name":"Chamber of Shadow","order":9,"parentId":2,"scrollX":973.1999999999999,"scrollY":577.8},
+{"id":9,"expanded":false,"name":"First Chamber of Abandonment","order":3,"parentId":2,"scrollX":973.1999999999999,"scrollY":568.1999999999999},
+{"id":10,"expanded":false,"name":"Second Chamber of Abandonment","order":4,"parentId":2,"scrollX":973.1999999999999,"scrollY":568.1999999999999},
+{"id":11,"expanded":false,"name":"Vision1","order":11,"parentId":2,"scrollX":973.1999999999999,"scrollY":798.5999999999999},
+{"id":12,"expanded":false,"name":"Prophetburo","order":12,"parentId":2,"scrollX":973.1999999999999,"scrollY":577.8},
+{"id":13,"expanded":false,"name":"Ibiza","order":13,"parentId":2,"scrollX":884.7272727272727,"scrollY":525.2727272727273},
+{"id":14,"expanded":false,"name":"ObjectVerse","order":14,"parentId":2,"scrollX":884.7272727272727,"scrollY":516.5454545454546},
+{"id":15,"expanded":false,"name":"Phonecall","order":15,"parentId":2,"scrollX":884.7272727272727,"scrollY":516.5454545454546}
 ]
